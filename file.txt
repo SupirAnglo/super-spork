@@ -1,2 +1,2 @@
 hello world. this is a text
-this is another text
+text 2
